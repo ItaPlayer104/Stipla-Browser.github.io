@@ -1,0 +1,23 @@
+#nav{
+    background-color: rgb(42, 42, 42);
+}
+
+#logo{
+ scale: 30%;
+ border-radius: 100%;
+ text-align: center;
+}
+
+#search-box{
+    border-radius: 10cm;
+    margin-bottom: 10cm;
+    width: 20%;
+    height: 140%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
